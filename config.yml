@@ -1,0 +1,11 @@
+# Localisation and environments supported
+title: FeedJSON
+tagline: FeedJSON - Simple syndication for modern apps
+author: feedjson.org
+url:
+  development: http://0.0.0.0:3000
+  production: http://www.feedjson.org
+
+# Use paginated page as blog index
+# This could be set to any slug of post or page to change default index page
+index: home

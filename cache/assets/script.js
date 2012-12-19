@@ -1,0 +1,4 @@
+/*
+ *= require minimal
+ *= require lazyload
+ */
